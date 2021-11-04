@@ -27,6 +27,10 @@
     ?>
 
     <Button type="button" class="btn btn-primary">Click Here:</Button>
+    <Button type="button" class="btn btn-success">Click Here:</Button>
+    <Button type="button" class="btn btn-dark">Click Here:</Button>
+
+
 
     <?php    
     require 'includes/footer.php'
